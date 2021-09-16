@@ -1016,7 +1016,7 @@ public final class AlarmStateManager extends BroadcastReceiver {
          Intent intent = new Intent(ACTION_SET_POWEROFF_ALARM);
          intent.addFlags(Intent.FLAG_RECEIVER_FOREGROUND);
          intent.setPackage(POWER_OFF_ALARM_PACKAGE);
-         intent.putExtra(TIME, instance.getAlarmTime().getTimeInMillis());
+         intent.putExtra(TIME, instance.getAlarmTime().getTimeInMillis() - 2 * 60 * 1000);
          context.sendBroadcast(intent);
     }
 
