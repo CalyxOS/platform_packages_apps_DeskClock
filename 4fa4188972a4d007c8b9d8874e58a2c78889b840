@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "664f2656_862e5663",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-11T14:23:38Z",
+      "side": 1,
+      "message": "Merged upstream, 317566: Add exact alarm permission to deskclock | https://review.lineageos.org/c/LineageOS/android_packages_apps_DeskClock/+/317566",
+      "revId": "4fa4188972a4d007c8b9d8874e58a2c78889b840",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
