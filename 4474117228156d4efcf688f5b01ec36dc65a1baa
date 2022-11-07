@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e472d5f_6ea87f50",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-11-07T16:36:10Z",
+      "side": 1,
+      "message": "Just to be double sure, don\u0027t want to break people\u0027s alarms, not with a security update.",
+      "revId": "4474117228156d4efcf688f5b01ec36dc65a1baa",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9a9fbc21_24ea7064",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-11-07T16:36:10Z",
+      "side": 1,
+      "message": "Let\u0027s make sure alarms work before we merge this.",
+      "revId": "4474117228156d4efcf688f5b01ec36dc65a1baa",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
