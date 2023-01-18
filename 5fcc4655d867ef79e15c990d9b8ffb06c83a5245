@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b997ff8_d6074b25",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-01-18T16:30:10Z",
+      "side": 1,
+      "message": "Let\u0027s skip this for 4.5.1",
+      "revId": "5fcc4655d867ef79e15c990d9b8ffb06c83a5245",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
