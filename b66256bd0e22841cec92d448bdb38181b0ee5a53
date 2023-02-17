@@ -16,6 +16,24 @@
       "message": "Any ideas as to why we had the conflicts?",
       "revId": "b66256bd0e22841cec92d448bdb38181b0ee5a53",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11004965_b02039f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-02-17T23:53:21Z",
+      "side": 1,
+      "message": "Conflicts come from us removing lineage migrations from what I can tell",
+      "parentUuid": "91bb75ed_c96bded3",
+      "revId": "b66256bd0e22841cec92d448bdb38181b0ee5a53",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
