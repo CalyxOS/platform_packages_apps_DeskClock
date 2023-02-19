@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "337d2bc0_684bf35f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-02-19T16:05:45Z",
+      "side": 1,
+      "message": "This is just a small visual fix in app, doesn\u0027t mean that alarms were actually broken",
+      "range": {
+        "startLine": 12,
+        "startChar": 2,
+        "endLine": 12,
+        "endChar": 44
+      },
+      "revId": "4320d47ddbb1ed46c136fbe4231440dc039ed389",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
