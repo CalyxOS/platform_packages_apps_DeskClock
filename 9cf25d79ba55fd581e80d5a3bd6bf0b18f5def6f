@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a72fa04b_2657dc98",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-24T18:27:55Z",
+      "side": 1,
+      "message": "Tested with Seedvault. Custom media files for alarms just end up falling back to a default tone, but other than that it seems fine.\n\nSubmitted to LineageOS for review, let me know if this should be CR-2 pending possible upstream merge (or just go ahead and CR-2 it).",
+      "revId": "9cf25d79ba55fd581e80d5a3bd6bf0b18f5def6f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
