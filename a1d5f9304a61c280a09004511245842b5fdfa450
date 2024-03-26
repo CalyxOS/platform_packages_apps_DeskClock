@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dee57247_576da1e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-26T14:53:53Z",
+      "side": 1,
+      "message": "Let\u0027s hold and test this a bit given Target SDK 34 bump.\n\nAt least wait for upstream to ship, don\u0027t want another update with broken alarms",
+      "revId": "a1d5f9304a61c280a09004511245842b5fdfa450",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
